@@ -20,3 +20,16 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
 
 
+<h1 align="center">
+Welcome!
+</h1>
+
+
+<p align="center">
+<a href="https://www.linkedin.com/in/nejlasahin"><img width="22" target="_blank" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg"></a>
+<a href="https://nejlasahin.com/"><img  width="22" target="_blank" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg"></a>
+<a href="mailto:hello@nejlasahin.com"><img  width="22" target="_blank" src="https://unpkg.com/simple-icons@v4/icons/microsoftoutlook.svg"></a>
+</p>
+
+***
+
