@@ -6,10 +6,23 @@
 
 - 📝 I regularly write articles on [My Medium Page](https://nejlasahin.medium.com/) 
 
-- 📝 My personal page [https://nejlasahin.com/](https://nejlasahin.com/)
+- 💬 Ask me about anything here
+
+- ⚡ My personal page [https://nejlasahin.com/](https://nejlasahin.com/)
 
 - 📫 How to reach me **hello@nejlasahin.com**
 
+<br />
+
+<details>
+<summary>:bulb: Github Stats</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=nejlasahin&theme=radical" >
+</details>
+
+<details>
+<summary>:bulb:  Most Used Languages</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nejlasahin&layout=compact" >
+</details>
 
 
 
