@@ -1,6 +1,6 @@
 <h1 align="center">Hi there :wave:, I'm Nejla. </h1>
 
-<img src="https://media.giphy.com/media/xuXzcHMkuwvf2/source.gif" align="right" width="400" height="250">
+<img src="https://media.giphy.com/media/xuXzcHMkuwvf2/source.gif" align="right" width="200" height="125">
 
 - 🌱 I’m currently learning **Java, Spring Boot, Javascript, React.js etc.**
 
@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **hello@nejlasahin.com**
 
-<h1 align="center">Hi there :wave:, I'm Nejla. </h1>
 
 
 
