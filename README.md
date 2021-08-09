@@ -10,9 +10,7 @@
 
 - 📫 How to reach me **hello@nejlasahin.com**
 
-- 📫 How to reach me **hello@nejlasahin.com**
-
-- 📫 How to reach me **hello@nejlasahin.com**
+<h1 align="center">Hi there :wave:, I'm Nejla. </h1>
 
 
 
