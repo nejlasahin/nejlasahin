@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Java, Spring Boot, Javascript, React.js etc.**
 
-- 📝 I regularly write articles on [My Medium Page](https://nejlasahin.medium.com/) 
-
 - 💬 Ask me about anything here
 
 - ⚡ My personal page [https://nejlasahin.com/](https://nejlasahin.com/)
