@@ -6,7 +6,7 @@
 
 - 💬 Ask me about anything here
 
-- ⚡ My personal page [nejlasahin.me](nejlasahin.me)
+- ⚡ My personal page [nejlasahin.me](https://nejlasahin.me/)
 
 - 📫 How to reach me **hello@nejlasahin.com**
 
