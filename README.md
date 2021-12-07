@@ -11,12 +11,12 @@
 <br />
 
 <details>
-<summary>:bulb: Github Stats</summary>
+<summary>:cyclone: Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=nejlasahin&show_icons=true" >
 </details>
 
 <details>
-<summary>:bulb:  Most Used Languages</summary>
+<summary>:cyclone:  Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nejlasahin&layout=compact" >
 </details>
 
