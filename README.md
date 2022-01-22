@@ -11,7 +11,7 @@
 <br />
 
 <details>
-<summary>:cyclone: Github Stats</summary>
+<summary>:cyclone: GitHub Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=nejlasahin&show_icons=true" >
 </details>
 
