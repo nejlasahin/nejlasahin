@@ -4,7 +4,7 @@
 
 - 💬 Ask me about anything here
 
-- ⚡ My personal page [nejlasahin.com](https://nejlasahin.me/)
+- ⚡ My personal page [nejlasahin.com](https://nejlasahin.com/)
 
 - 📫 How to reach me **hello@nejlasahin.com**
 
