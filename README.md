@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/xuXzcHMkuwvf2/source.gif" align="right" width="266" height="166">
+<img src="https://media.giphy.com/media/S2u9Ldmx480O4/giphy.gif" align="right" width="266" height="166">
 
 - 🌱 I’m currently learning **Java, Spring, Javascript, React.js etc.**
 
