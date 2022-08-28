@@ -1,6 +1,6 @@
-<img src="https://media.giphy.com/media/S2u9Ldmx480O4/giphy.gif" align="right" width="240" height="135">
+<img src="https://media.giphy.com/media/xuXzcHMkuwvf2/giphy.gif" align="right" width="240" height="135">
 
-- 🌱 I’m currently learning **Java, Spring, Javascript, React.js etc.**
+- 🌱 I’m currently learning **Java, Spring Boot, Javascript, React.js etc.**
 
 - 💬 Ask me about anything here
 
