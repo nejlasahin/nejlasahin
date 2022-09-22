@@ -6,7 +6,7 @@
 
 - ⚡ My personal page [nejlasahin.com](https://nejlasahin.com/)
 
-- 📫 How to reach me **hello@nejlasahin.com**
+- 📫 How to reach me **nejlasahin.dev@gmail.com**
 
 <br />
 
